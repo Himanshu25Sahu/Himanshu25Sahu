@@ -48,8 +48,8 @@ const Himanshu = {
 
 ### 📬 Reach Me
 
-- 📫 Email: **himanshusahu.dev@gmail.com**
-- 💼 LinkedIn: [Himanshu Sahu](https://www.linkedin.com/in/himanshusahu/)
+- 📫 Email: **himpreetak@gmail.com**
+- 💼 LinkedIn: [Himanshu Sahu](https://www.linkedin.com/in/himanshu-sahu-303b2b25a/)
 - 🌐 Portfolio: [My Portfolio](https://himanshu25sahu.github.io/HimanshuSahu/) ✨
 
 ---
