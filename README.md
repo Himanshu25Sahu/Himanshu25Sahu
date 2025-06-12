@@ -33,17 +33,6 @@ const Himanshu = {
 
 ---
 
-### 🧮 My GitHub Activity
-
-> I contribute regularly to full-stack and open-source projects.  
-> Currently focused on building Novascript and pushing clean commits 🚀
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimanshuSahu&show_icons=true&theme=radical" width="48%" />
-</p>
-
----
-
 ### 🛠️ Tools I Use Often
 
 <p>
