@@ -33,14 +33,13 @@ const Himanshu = {
 
 ---
 
-### 📈 My GitHub Stats
+### 🧮 My GitHub Activity
+
+> I contribute regularly to full-stack and open-source projects.  
+> Currently focused on building Novascript and pushing clean commits 🚀
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HimanshuSahu&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuSahu&theme=radical" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuSahu&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
@@ -61,8 +60,8 @@ const Himanshu = {
 ### 📬 Reach Me
 
 - 📫 Email: **himanshusahu.dev@gmail.com**
-- 💼 LinkedIn: [@himanshusahu](https://www.linkedin.com/in/himanshusahu/)
-- 🌐 Portfolio: [Coming Soon] ✨
+- 💼 LinkedIn: [Himanshu Sahu](https://www.linkedin.com/in/himanshusahu/)
+- 🌐 Portfolio: [My Portfolio](https://himanshu25sahu.github.io/HimanshuSahu/) ✨
 
 ---
 
