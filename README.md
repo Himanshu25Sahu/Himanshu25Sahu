@@ -14,7 +14,7 @@ const Himanshu = {
   role: "Full Stack Developer | SWE Intern",
   languages: ["JavaScript", "C++", "Python", "Java"],
   frameworks: ["React", "Node.js", "Express", "MongoDB"],
-  tools: ["Git", "Docker", "Postman", "VS Code"],
+  tools: ["Git", "Postman", "VS Code"],
   building: ["Novascript - an interpreted scripting language"],
   hobbies: ["Coding", "Hackathons", "Problem Solving", "Designing scalable systems"]
 };
@@ -33,6 +33,15 @@ const Himanshu = {
 
 ---
 
+### 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HimanshuSahu&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuSahu&theme=radical" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuSahu&layout=compact&theme=radical" width="48%" />
+</p>
 
 ---
 
@@ -42,7 +51,7 @@ const Himanshu = {
   <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/DB-MongoDB-green?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool-Docker-blue?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Git-blue?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Tool-Postman-orange?style=flat&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=white" />
 </p>
@@ -51,9 +60,9 @@ const Himanshu = {
 
 ### 📬 Reach Me
 
-- 📫 Email: **himpreetak@gmail.com**
-- 💼 LinkedIn: [Himanshu Sahu](https://www.linkedin.com/in/himanshu-sahu-303b2b25a/)
-- 🌐 Portfolio: (https://himanshu25sahu.github.io/HimanshuSahu/) ✨
+- 📫 Email: **himanshusahu.dev@gmail.com**
+- 💼 LinkedIn: [@himanshusahu](https://www.linkedin.com/in/himanshusahu/)
+- 🌐 Portfolio: [Coming Soon] ✨
 
 ---
 
