@@ -21,8 +21,9 @@ const Himanshu = {
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu25Sahu&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu25Sahu&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues,contribs&theme=radical" alt="GitHub stats" />
 </p>
+
 
 
 ---
