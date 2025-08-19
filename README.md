@@ -1,9 +1,6 @@
 <!-- README.md -->
 <h1 align="center">Hi there, I'm Himanshu Sahu 👋</h1>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Himanshu25Sahu&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide=c%2B%2B" alt="GitHub stats" /> 
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
@@ -20,7 +17,7 @@ const Himanshu = {
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu25Sahu&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues,contribs&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu25Sahu&show_icons=true&count_private=true&include_all_commits=true&hide=prs,contribs&theme=radical" alt="GitHub stats" />
 </p>
 
 
