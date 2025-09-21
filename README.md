@@ -17,7 +17,6 @@ const Himanshu = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu25Sahu&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu25Sahu&theme=radical" alt="GitHub Streak" />
 </p>
 
 
