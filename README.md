@@ -7,29 +7,28 @@
 
 ```js
 const Himanshu = {
-  role: "Full Stack Developer | SWE Intern",
-  languages: ["JavaScript", "C++", "Python", "Java"],
-  frameworks: ["React", "Node.js", "Express", "MongoDB"],
-  tools: ["Git", "Postman", "VS Code"],
-  building: ["Novascript - an interpreted scripting language"],
+  languages: ["JavaScript", "Typescript","C++", "Python"],
+  frameworks: ["React", "Node.js", "Express", "MongoDB","Next.js"],
+  tools: ["Git", "Postman", "VS Code", "Docker", "Ansible", "Shell Scripting", "CI/CD"],
   hobbies: ["Coding", "Hackathons", "Problem Solving", "Designing scalable systems"]
 };
+
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu25Sahu&show_icons=true&count_private=true&include_all_commits=true&hide=prs,contribs&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu25Sahu&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu25Sahu&theme=radical" alt="GitHub Streak" />
 </p>
-
 
 
 ---
 
 ### 🚀 Projects That Keep Me Awake At Night
 
-- 🧠 **[Novascript](#)** – a beginner-friendly interpreted language with English-like syntax
-- 🌐 **[Townsquare](https://townsquareclient.onrender.com)** – hyperlocal community app with real-time chat, polls & marketplace
-- 💬 **[Devsphere](#)** – collaborative developer platform with group chat + portfolio sync
-- 📊 **[AlgoViz](#)** – visualization tool for ML + Algo basics
+- 🌐 **[Townsquare](https://town-square.onrender.com/login)** – hyperlocal community app with real-time chat, polls & marketplace
+- 💬 **[Devsphere](https://dev-sphere-gilt.vercel.app/)** – collaborative developer platform with group chat + portfolio sync
+- 🧠 **[Novascript](https://novascript-docs.vercel.app/)** – a beginner-friendly interpreted language with English-like syntax
+- 📊 **[Think Twice](https://think-twice-six.vercel.app/login)** – a project made to understand and implement a complete CI/CD pipeline
 
 > _"I build for users, not just UIs."_
 
