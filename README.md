@@ -31,18 +31,19 @@ const Himanshu = {
 
 > _"I build for users, not just UIs."_
 
+### ⚙️ Technical Highlights & Optimizations
+
+- **Townsquare** – Optimized frontend with React memoization and lazy loading; reduced re-renders and improved client performance by ~28%.
+- **Devsphere** – Enhanced backend API efficiency and frontend responsiveness for faster real-time interactions and smoother chat experience.
+- **Novascript** – Built lexical analyzer, parser, and interpretation phases in C++; designed an end-to-end interpreted language architecture.
+- **Think Twice** – Implemented complete DevOps pipeline with Docker and GitHub Actions; currently adding automated tests for production readiness.
+
 ---
 
-### 🛠️ Tools I Use Often
+### 🧩 Problem Solving & DSA
 
-<p>
-  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/DB-MongoDB-green?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool-Git-blue?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool-Postman-orange?style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=white" />
-</p>
+- Solved **250+ DSA problems** on [LeetCode](https://leetcode.com/u/Himanshu_Sahu_25/), strengthening problem solving skills.
+- Continuously improving problem-solving speed and optimization techniques.
 
 ---
 
