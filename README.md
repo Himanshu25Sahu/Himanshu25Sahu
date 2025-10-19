@@ -33,16 +33,16 @@ const Himanshu = {
 
 ### ⚙️ Technical Highlights & Optimizations
 
-- **Townsquare** – Optimized frontend with React memoization and lazy loading; reduced re-renders and improved client performance by ~28%.
+- **Townsquare** – Optimized frontend and reduced re-renders and improved performance by ~28%. Implemented caching through redis, optimizing user experience.
 - **Devsphere** – Enhanced backend API efficiency and frontend responsiveness for faster real-time interactions and smoother chat experience.
 - **Novascript** – Built lexical analyzer, parser, and interpretation phases in C++; designed an end-to-end interpreted language architecture.
-- **Think Twice** – Implemented complete DevOps pipeline with Docker and GitHub Actions; currently adding automated tests for production readiness.
+- **Think Twice** – Implemented complete DevOps pipeline with Docker and GitHub Actions; Added caching with redis, automated testing using jest and load balanced the app using nginx.
 
 ---
 
 ### 🧩 Problem Solving & DSA
 
-- Solved **250+ DSA problems** on [LeetCode](https://leetcode.com/u/Himanshu_Sahu_25/), strengthening problem solving skills.
+- Solved **270+ DSA problems** on [LeetCode](https://leetcode.com/u/Himanshu_Sahu_25/), strengthening problem solving skills.
 - Continuously improving problem-solving speed and optimization techniques.
 
 ---
