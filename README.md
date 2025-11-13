@@ -10,7 +10,7 @@ const Himanshu = {
   languages: ["JavaScript", "Typescript","C++", "Python"],
   frameworks: ["React", "Node.js", "Express", "MongoDB","Next.js"],
   tools: ["Git", "Postman", "VS Code", "Docker", "Ansible", "Shell Scripting", "CI/CD"],
-  hobbies: ["Coding", "Hackathons", "Problem Solving", "Designing scalable systems"]
+  hobbies: ["Coding", "Hackathons", ,"Competetive Programming", "Problem Solving", "Designing scalable systems"]
 };
 
 ```
@@ -40,8 +40,8 @@ const Himanshu = {
 
 ---
 
-### 🧩 Problem Solving & DSA
-
+### 🧩 Problem Solving & Competetive Programming
+- LeetCode Rating: 1700+ – demonstrating strong algorithmic and analytical problem-solving skills.
 - Solved **270+ DSA problems** on [LeetCode](https://leetcode.com/u/Himanshu_Sahu_25/), strengthening problem solving skills.
 - Continuously improving problem-solving speed and optimization techniques.
 
@@ -51,7 +51,7 @@ const Himanshu = {
 
 - 📫 Email: **himpreetak@gmail.com**
 - 💼 LinkedIn: [Himanshu Sahu](https://www.linkedin.com/in/himanshu-sahu-303b2b25a/)
-- 🌐 Portfolio: [My Portfolio](https://himanshu25sahu.github.io/HimanshuSahu/) ✨
+- 🌐 Portfolio: [My Portfolio](https://whois-himanshu-sahu.vercel.app/) ✨
 
 ---
 
